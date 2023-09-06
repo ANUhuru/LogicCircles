@@ -44,6 +44,6 @@ TagManager:
   - name: floor
     uniqueID: 1111345107
     locked: 0
-  - name: button
+  - name: entity
     uniqueID: 3211804543
     locked: 0
